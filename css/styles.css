@@ -4,7 +4,7 @@
   --heading-text-color: #212121;
   --primary-white-color: #ffffff;
   --secondary-background-color: #f5f4fa;
-  --picture-background-color: rgba(47, 48, 58, 0.8);
+  --picture-background-color: rgba(47, 48, 58, 0.4);
   --footer-background-color: #2f303a;
   --contact-icon-color: #afb1b8;
 }
@@ -375,7 +375,7 @@ margin-right: 30px;
   width: 100%;
 
   color: var(--primary-white-color);
-  background-color: var(--picture-background-color);
+  background-color: rgba(47, 48, 58, 0.8);
 
   font-style: normal;
   font-weight: bold;
